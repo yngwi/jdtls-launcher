@@ -4,7 +4,7 @@
 INSTALL_ROOT=${1:-"$HOME/.local/opt"}
 LINK_ROOT="$HOME/.local/bin"
 TARBALL_LOCATION='/tmp/jdtls-launcher.tar.gz'
-DOWNLOAD_URL='https://github.com/eruizc-dev/yngwi/archive/refs/heads/master.tar.gz'
+DOWNLOAD_URL='https://github.com/yngwi/jdtls-launcher/archive/refs/heads/master.tar.gz'
 
 ### DERIVATED VARIABLES ###
 INSTALL_LOCATION="$INSTALL_ROOT/jdtls-launcher"
